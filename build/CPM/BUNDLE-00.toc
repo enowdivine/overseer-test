@@ -1,0 +1,1 @@
+([('CPM', '/Users/macbook/Downloads/PM Version2/dist/CPM', 'EXECUTABLE')],)
